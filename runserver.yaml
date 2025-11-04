@@ -1,0 +1,7 @@
+homepage:
+  menu:
+    replace:
+
+      - desc: dpersonales
+        screenName: dpersonales
+        img: "/src/client/assets/logo.jpg"
